@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="file:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib" />
+      </SOURCES>
+      <jarDirectory url="file:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib" recursive="false" />
+      <jarDirectory url="file:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/lib" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</project>
